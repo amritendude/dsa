@@ -1,6 +1,5 @@
-package com.isprime.module01.isprime;
+package com.scaler.module01.isprime;
 
-import com.scaler.module01.isprime.IsPrime;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
