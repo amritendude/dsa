@@ -2,6 +2,10 @@ package com.scaler.module01.arrayrotation;
 
 import java.util.ArrayList;
 
+/*
+Given an integer array A of size N and an integer B,
+you have to return the same array after rotating it B times towards the right.
+ */
 public class ArrayRotation {
     public ArrayList<Integer> solve(ArrayList<Integer> A, int B) {
         B = B % A.size();

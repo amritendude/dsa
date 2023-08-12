@@ -1,5 +1,8 @@
 package com.scaler.module01.isprime;
 
+/*
+Given an Integer A. Return 1 if A is prime and return 0 if not.
+ */
 public class IsPrime {
     public int solve(long A) {
         int count = 0;
