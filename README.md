@@ -1,2 +1,2 @@
-# Data STructures & Algorithms
+# Data Structures & Algorithms
 Top 100 DSA problems
