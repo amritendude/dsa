@@ -8,6 +8,7 @@
     <groupId>com.scaler</groupId>
     <artifactId>dsa</artifactId>
     <version>1.0</version>
+    <name>Top 100 DSA Problems</name>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
